@@ -195,3 +195,4 @@ Nous finissons toujours nos rencontres par un temps de bilan. L’animation est 
 
 
 # Toute contribution à ce document est bienvenue !
+Si l'utilisation de Github vous est étrangère, n'hésitez pas à demander de l'aide !

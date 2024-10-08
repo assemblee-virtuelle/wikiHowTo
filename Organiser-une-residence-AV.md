@@ -7,7 +7,7 @@
 * Réfléchir ensemble
 * Aller à la rencontre des écosystèmes locaux 
 
-## Les principe de la résidence 
+## Les principes des résidences AV
 Les rôles tournent, nous sommes solidaires. 
 Les résidences se veulent toujours en lien avec le territoir hôte
 Le choix du prochain lieu de résidence se fait pendant la résidence précédente. 
@@ -192,3 +192,6 @@ Nous finissons toujours nos rencontres par un temps de bilan. L’animation est 
 - Vérifier la valorisation du pad de documentation
 - photos, vidéos et partage de documents / liste de liens à consulter
 - Partager le retex de l’organisation sur le forum
+
+
+# Toute contribution à ce document est bienvenue !
